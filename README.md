@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiddharthJogi
 - 👀 I’m interested in Coding and Building Kickass websites
-- 🌱 I’m currently learning C, Python and Java
-- 💞️ I’m looking to collaborate on some very basic level projects
+- 🌱 I’m currently learning Java , Python and Cloud
+- 💞️ I’m looking to collaborate on some Projects
 - 📫 How to reach me :- siddharthj3106@gmail.com
 
 <!---
